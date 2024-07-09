@@ -10,7 +10,7 @@ const Started = () => {
               <button className='mt-[24px] h-[28px] mb-[48px] w-[104px] rounded-lg md:h-[46px] md:w-[147px] md:pt-2 md:pr-4 md:pb-2 md:pl-4 text-white bg-[#8064A2] md:mt-7'>Get Started</button>
         </div>
         <div>
-            <img src="src/assets/images/group2.png" alt="" className='h-[76px] w-[312.05px] absolute top-[175px] left-[24px] md:h-[302px] md:w-[1240px] md:absolute md:top-[330px] md:left-[100px]' />
+            <img src="src/public/images/group2.png" alt="" className='h-[76px] w-[312.05px] absolute top-[175px] left-[24px] md:h-[302px] md:w-[1240px] md:absolute md:top-[330px] md:left-[100px]' />
         </div>
     </div>
   )

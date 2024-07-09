@@ -36,7 +36,7 @@ const Home = () => {
           </div>
 
           <div className="absolute top-[600px] left-[0px] h-[96.74px] w-[312px] md:h-[216px] md:absolute md:top-[310px] md:left-[0px] md:w-[697.07px] md:mt-[80px]">
-            <img src="src/assets/images/group.png" alt="" />
+            <img src="src/public/images/group.png" alt="" />
           </div>
         </div>
 
@@ -51,8 +51,8 @@ const Home = () => {
               </button>
             </div>
             <div className="md:absolute md:top-[66px]  md:h-[96px] md:w-[410px]" >
-                <button className="md:flex justify-between md:w-[410px] md:h-[40px] md:rounded-lg md:pt-[12px] md:pb-[12px] md:pr-[128px] md:pl-[24px] md:text-[14px] md:leading-[16px] mt-4" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}> <img src="src/assets/images/go.png" alt="" />Continue with Google</button>
-                <button className="md:flex justify-between md:w-[410px] md:h-[40px] md:rounded-lg md:pt-[12px] md:pb-[12px] md:pr-[128px] md:pl-[24px] md:text-[14px] md:leading-[16px] mt-3" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}><img src="src/assets/images/fb.png" alt=""   />Continue with Facebook</button>
+                <button className="md:flex justify-between md:w-[410px] md:h-[40px] md:rounded-lg md:pt-[12px] md:pb-[12px] md:pr-[128px] md:pl-[24px] md:text-[14px] md:leading-[16px] mt-4" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}> <img src="src/public/images/go.png" alt="" />Continue with Google</button>
+                <button className="md:flex justify-between md:w-[410px] md:h-[40px] md:rounded-lg md:pt-[12px] md:pb-[12px] md:pr-[128px] md:pl-[24px] md:text-[14px] md:leading-[16px] mt-3" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}><img src="src/public/images/fb.png" alt=""   />Continue with Facebook</button>
             </div>
 
             <div className="mt-[150px]">
@@ -106,10 +106,10 @@ const Home = () => {
 
 
 <div className="md:absolute md:top-[66px]  md:h-[96px] md:w-[410px]" >
-                <button className="flex justify-between w-[312px] h-[32px] rounded-lg pt-[7px] pb-[5px] pr-[100px] pl-[24px] text-[12px] leading-[16px] mt-4" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}> <img src="src/assets/images/go.png" alt="" />Continue with Google</button>
+                <button className="flex justify-between w-[312px] h-[32px] rounded-lg pt-[7px] pb-[5px] pr-[100px] pl-[24px] text-[12px] leading-[16px] mt-4" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}> <img src="src/public/images/go.png" alt="" />Continue with Google</button>
 
 
-                <button className="flex justify-between w-[312px] h-[32px] rounded-lg pt-[7px] pb-[5px] pr-[100px] pl-[24px] text-[12px] leading-[16px] mt-2" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}><img src="src/assets/images/fb.png" alt=""   />Continue with Facebook</button>
+                <button className="flex justify-between w-[312px] h-[32px] rounded-lg pt-[7px] pb-[5px] pr-[100px] pl-[24px] text-[12px] leading-[16px] mt-2" style={{border:'1px solid #8064A2', borderRadius:'8px',fontWeight:'600'}}><img src="src/public/images/fb.png" alt=""   />Continue with Facebook</button>
             </div>
 
 

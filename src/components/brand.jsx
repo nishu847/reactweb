@@ -15,7 +15,7 @@ const Brand = () => {
           >
             <div className="h-[32px] w-[102px] absolute top-[24px] left-[102px] md:h-[40px] md:w-[147px] md:absolute md:top-[40px] md:left-[40px] flex">
               <img
-                src="src/assets/images/groupicon.png"
+                src="src/public/images/groupicon.png"
                 alt=""
                 className="md:h-[40px] md:w-[40px] md:mr-[24px]"
               />
@@ -49,7 +49,7 @@ const Brand = () => {
           >
             <div className="h-[32px] w-[102px] absolute top-[24px] left-[102px] md:h-[40px] md:w-[147px] md:absolute md:top-[40px] md:left-[40px] flex">
               <img
-                src="src/assets/images/loc.png"
+                src="src/public/images/loc.png"
                 alt=""
                 className="md:h-[40px] md:w-[40px] md:mr-[24px]"
               />
@@ -84,7 +84,7 @@ const Brand = () => {
           >
             <div className="h-[32px] w-[102px] absolute top-[24px] left-[102px] md:h-[40px] md:w-[147px] md:absolute md:top-[40px] md:left-[40px] flex">
               <img
-                src="src/assets/images/shopping.png"
+                src="src/public/images/shopping.png"
                 alt=""
                 className="md:h-[40px] md:w-[40px] md:mr-[24px]"
               />
@@ -118,7 +118,7 @@ const Brand = () => {
           >
             <div className="h-[32px] w-[102px] absolute top-[24px] left-[102px] md:h-[40px] md:w-[147px] md:absolute md:top-[40px] md:left-[40px] flex">
               <img
-                src="src/assets/images/eventdone.png"
+                src="src/public/images/eventdone.png"
                 alt=""
                 className="md:h-[40px] md:w-[40px] md:mr-[24px]"
               />

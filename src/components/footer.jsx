@@ -44,14 +44,14 @@ const Footer = () => {
                     <div className='md:absolute md:top-[0px] absolute top-[576px] left-[24px] '>
                     <p className=' md:text-[14px] font-bold md:leading-6 md:mb-4 '>Social Media</p>
                     <div className='flex gap-6'>
-                        <img src="src/assets/images/facebook.png" alt="" />
-                        <img src="src/assets/images/twitter.png" alt="" />
-                        <img src="src/assets/images/insta.png" alt="" />
-                        <img src="src/assets/images/pinterest.png" alt="" />
-                        <img src="src/assets/images/google.png" alt="" />
-                        <img src="src/assets/images/youtube.png" alt="" />
-                        <img src="src/assets/images/share.png" alt="" />
-                        <img src="src/assets/images/message.png" alt="" />
+                        <img src="src/public/images/facebook.png" alt="" />
+                        <img src="src/public/images/twitter.png" alt="" />
+                        <img src="src/public/images/insta.png" alt="" />
+                        <img src="src/public/images/pinterest.png" alt="" />
+                        <img src="src/public/images/google.png" alt="" />
+                        <img src="src/public/images/youtube.png" alt="" />
+                        <img src="src/public/images/share.png" alt="" />
+                        <img src="src/public/images/message.png" alt="" />
                     </div>
 
                     </div>

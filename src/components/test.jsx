@@ -9,7 +9,7 @@ const Test = () => {
 
             <div className='md:h-[204px] md:w-[1160px] md:absolute md:left-[40px] md:top-[40px]'>
             <div className='' >
-                <button className='absolute  top-[24px] left-[72px] md:absolute md:top-[0px] md:left-[0px] flex justify-center items-center h-[32px] w-[166px]  md:h-[40px] md:w-[232px] ' style={{fontWeight:'600'}}><img src="src/public/images/Add.png" className='h-[32px] w-[32px] md:h-[40px] md:w-[40px] mr-2 md:mr-[24px]' alt="" /><span className='h-[27px] w-[126px] text-[18px] md:h-[36px] md:w-[168px] md:text-2xl '>Add your own</span></button>
+                <button className='absolute  top-[24px] left-[72px] md:absolute md:top-[0px] md:left-[0px] flex justify-center items-center h-[32px] w-[166px]  md:h-[40px] md:w-[232px] ' style={{fontWeight:'600'}}><img src="public/assets/images/Add.png" className='h-[32px] w-[32px] md:h-[40px] md:w-[40px] mr-2 md:mr-[24px]' alt="" /><span className='h-[27px] w-[126px] text-[18px] md:h-[36px] md:w-[168px] md:text-2xl '>Add your own</span></button>
             </div>
 
             <div className='absolute top-[68px] left-[10px] md:absolute md:top-[72px] text-center md:text-justify'>

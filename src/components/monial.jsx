@@ -8,7 +8,7 @@ const Monial = () => {
         <div className='h-[612px] w-[312px] top-[48px] left-[24px] absolute md:h-[474px] md:w-[1240px] md:absolute md:top-[100px] md:left-[100px] bg-[#f7f5f9] rounded-lg'>
 
         <div className='flex justify-center items-center md:absolute md:top-[40px] md:left-[40px] absolute  top-[24px] left-[77px]  '>
-          <img src="src/public/images/quote.png" alt="" className='h-[32px] w-[32px] mr-1 md:h-[40px] md:w-[40px] md:mr-[24px]'/>
+          <img src="public/assets/images/quote.png" alt="" className='h-[32px] w-[32px] mr-1 md:h-[40px] md:w-[40px] md:mr-[24px]'/>
           <p className='h-[27px] w-[118px] text-[18px] md:h-[36px] md:w-[157px] md:text-2xl' style={{fontWeight:'600'}}>Testimonials</p>
         </div>
 
@@ -32,10 +32,10 @@ const Monial = () => {
             </div>
             
 
-<img src="src/public/images/cover.png" alt="" className='h-[40px] w-[40px] absolute top-[12px] left-[208px] md:h-14 md:w-14 md:absolute md:top-[19px] md:left-[650px]'/>
+<img src="public/assets/images/cover.png" alt="" className='h-[40px] w-[40px] absolute top-[12px] left-[208px] md:h-14 md:w-14 md:absolute md:top-[19px] md:left-[650px]'/>
 
         </div>
-        <img src="src/public/images/gp.png" alt="" className='h-[60px] w-[236px] absolute top-[432px] left-[38px] md:absolute md:top-[332px] md:left-[896px] md:h-[100px] md:w-[304px]' />
+        <img src="public/assets/images/gp.png" alt="" className='h-[60px] w-[236px] absolute top-[432px] left-[38px] md:absolute md:top-[332px] md:left-[896px] md:h-[100px] md:w-[304px]' />
 
       </div>
     </div>
